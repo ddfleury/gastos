@@ -1,0 +1,7 @@
+{
+  "name": "FinControl Pro",
+  "description": "A comprehensive personal finance manager with intelligent insights, budget tracking, and detailed expense analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
